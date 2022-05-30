@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 fghjok';jkhvj
-=======
 sumantthh demo session of git
->>>>>>> a7f3a83d0e5a12ea786cc4e90cf58c2e71ae1d54
